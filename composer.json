@@ -1,5 +1,5 @@
 {
-    "name": "sabberworm/php-css-parser",
+    "name": "prestashop/php-css-parser",
     "type": "library",
     "description": "Parser for CSS Files written in PHP",
     "keywords": ["parser", "css", "stylesheet"],
