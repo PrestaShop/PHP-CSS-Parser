@@ -20,6 +20,10 @@
 * *No backwards-incompatible changes*
 * *No deprecations*
 
+### 8.2.0 (2017-12-28)
+
+* Comments rendering (using option in OutputFormat)
+
 ## 7.0
 
 ### 7.0.0 (2015-08-24)
